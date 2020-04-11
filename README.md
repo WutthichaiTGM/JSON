@@ -1,1 +1,1 @@
-    HELLO
+# Backend Challenges boilerplate - package.json
